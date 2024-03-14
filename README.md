@@ -1,5 +1,5 @@
 # PlanetoidSS13
-[![forthebadge](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)](https://forthebadge.com)
+[![barotrauma](https://cdn.discordapp.com/attachments/1003734945447026788/1217888446354428085/image.png?ex=6605aa00&is=65f33500&hm=a545c775c8abc396023db8e7ea80ca8714f82744a274523b3f1fe4e3421fb5fd&)](https://cdn.discordapp.com/attachments/1003734945447026788/1217888446354428085/image.png?ex=6605aa00&is=65f33500&hm=a545c775c8abc396023db8e7ea80ca8714f82744a274523b3f1fe4e3421fb5fd&)
 
 # Useful Documents
 
