@@ -26,9 +26,9 @@ including addons and modifications you have made.
 See [this](https://www.gnu.org/licenses/why-affero-gpl.html) for more information.
 
 Any files located in the
-`Planetoid/goon`,
-`Planetoid/icons/goonstation`, or
-`Planetoid/sound/goonstation`
+`PlanetoidSS13/goon`,
+`PlanetoidSS13/icons/goonstation`, or
+`PlanetoidSS13/sound/goonstation`
 directories, or any subdirectories of mentioned directories are licensed under the
 Creative Commons 3.0 BY-NC-SA license
 (https://creativecommons.org/licenses/by-nc-sa/3.0)
